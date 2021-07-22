@@ -9,9 +9,9 @@ NaN
 
 1_000_000 과 같은 표기 가능
 */
-var decimal = 6;
-var hex = 0xf00d;
-var binary = 10;
-var octal = 484;
-var notAnumber = NaN;
-var uderscoreNum = 1000000;
+let decimal = 6;
+let hex = 0xf00d;
+let binary = 0b1010;
+let octal = 0o744;
+let notAnumber = NaN;
+let uderscoreNum = 1000000;
