@@ -1,4 +1,4 @@
-interface person1 {
+interface Person1 {
   name: string;
   age: number;
 }
