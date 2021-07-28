@@ -3,3 +3,5 @@ interface IPerson1 {
   age?: number;
   hello(): void;
 }
+
+class Person implements
